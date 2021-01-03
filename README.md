@@ -1,2 +1,0 @@
-# my-dwm
-my dwm
